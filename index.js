@@ -82,5 +82,3 @@ function getWeather(){
         })
         .catch(err => console.log(err));
 }
-
-//some changes 2

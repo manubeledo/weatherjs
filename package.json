@@ -1,0 +1,17 @@
+{
+  "name": "weatherjs",
+  "version": "1.0.0",
+  "description": "weather application",
+  "main": "index.js",
+  "dependencies": {
+    "boostrap": "^2.0.0",
+    "jquery": "^3.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manuel Beledo",
+  "license": "ISC"
+}
